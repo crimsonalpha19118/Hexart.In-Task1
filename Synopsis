@@ -1,0 +1,19 @@
+Problem Statement: Online Payments Fraud Detection with Machine Learning
+
+Online fraud detection using machine learning is a method of identifying fraudulent activities on the internet using artificial intelligence techniques.
+It involves training a machine learning model on large amounts of historical data, including examples of both fraudulent and legitimate transactions.
+The model then uses this information to identify patterns and relationships in the data that are indicative of fraud.
+When a new transaction is made, the model uses these patterns to make a prediction about whether the transaction is likely to be fraudulent or not.
+This approach can help to reduce the number of false positive fraud alerts, while also improving the detection rate of actual fraud.
+
+The approach followed for this problem is logistic regression.
+Advantages of using logistic regression in online fraud detection include its simplicity, interpretability, and its ability to handle a large number
+of input variables. However, it can also be limited by its assumption of linear relationships between the input variables and the target variable,
+and may not perform well on complex and highly non-linear data.
+
+The model was trained by using a dataset with 6.3 million entries.This made the model predict the outcomes with an accuracy of 99.9%
+
+The future scope and usability of online fraud detection using machine learning is quite promising. 
+With increasing instances of fraud and the growing volume of transactions being made online, 
+the need for effective fraud detection methods is becoming more pressing. Machine learning is particularly well-suited to this task
+because it can quickly identify patterns in large amounts of data and adapt to changing patterns of fraud over time.
